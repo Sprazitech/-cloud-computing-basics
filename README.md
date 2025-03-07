@@ -47,6 +47,7 @@ ii. Netherland (Europe-West 4) shows $31.22/Month.
 **For Azure:**
 I compared the price of compute Engine across two Regions, East US and South Central with the following configurations.
 Compute Engine: D2v3 standard type, 8GB Ram 80GB temporary storage.
+
 i. East US shows $70.08/month.
 
 ![Azure 2](photos/Azure_2.jpg)
