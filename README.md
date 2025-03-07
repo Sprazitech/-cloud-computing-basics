@@ -31,6 +31,7 @@ iii. US West(California): For compute savings plans and EC2 Instance savings pla
 **For GCP:**
 I compared the price of GCP compute Engine across two Regions, US-Central 1 (Lowa) and Netherland (Europe-West 4) with the following configurations.
 Compute Engine: 1 service type instance, Memory (1GIB), operating system Dual Ubuntu pro, General purpose T2A standard-1.
+
 i.  US-Central 1 (Lowa) shows $28.79/month.
 
 ![gcp 1](photos/gcp_1.jpg)
