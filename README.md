@@ -12,6 +12,7 @@ I was unable to open a free-tier account on GCP and Azure. I encountered error m
 **For AWS:**
 I used the pricing calculator to compare the price of AWS EC2 across three Regions, US East(Virginia), US East(Ohio), US West(California) respectively with following configuration both for compute savings plans and EC2 Instance savings plans.
 EC2: T2micro, 1 vCPUs, Memory (1GIB) and Network Performance (low to moderate).
+
 i. US East(Virginia): For compute savings plans and EC2 Instance savings plans, shows $6.06/month and $5.26/month respectively.
 
 ![aws 1](photos/aws_1.jpg)
