@@ -37,7 +37,9 @@ i.  US-Central 1 (Lowa) shows $28.79/month.
 ![gcp 1](photos/gcp_1.jpg)
 
 
+
 ii. Netherland (Europe-West 4) shows $31.22/Month.
+
 
 ![gcp 2](photos/gcp_2.jpg)
 
@@ -50,6 +52,9 @@ i. East US shows $70.08/month.
 ![Azure 2](photos/Azure_2.jpg)
 
 
+
+
 ii. South Central $80.30/month.
+
 
 ![azure 3](photos/azure_3.jpg)
